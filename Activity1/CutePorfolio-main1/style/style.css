@@ -1,0 +1,121 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    background: linear-gradient(90deg, #000);
+    height: 100vh;
+    width: 100vw;
+    padding: 0 10%;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 100px;
+    transition: ease-in-out 2s;
+    width: 100%;
+    padding: 0 5%;
+}
+
+
+.Prof {
+    border-radius: 26% 74% 49% 51% / 40% 26% 74% 60% ;
+}
+
+.cardi {
+    height: 300px;
+    width: 300px;
+}
+
+button {
+    background-color: #fefffd;
+    height: 40px;
+    width: 70px;
+    border-radius: 11px;
+
+}
+
+h1 {
+    background: linear-gradient(
+        to right,
+        #959596 20%,
+        #555555 30%,
+        #464646 70%,
+        #000000 80%,
+        #ec42e4 100%
+    );
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-fill-color: transparent;
+    background-size: 500% auto;
+    animation: textShine 5s ease-in-out infinite alternate;
+    text-transform: uppercase;
+    font-size: 5rem;
+}
+
+
+.ClassL {
+    text-align: center;
+    width: 50%;
+}
+
+.w1 {
+    background: #eceff1;
+    margin-top: 90px;
+}
+
+#desu {
+    display: flex;
+    
+}
+
+.jazzi {
+    width: 400px;
+    text-align: center;
+    padding: 0 5%;
+}
+
+#tits {
+    display: block;
+}
+
+.wrapper:hover {
+    animation: dark 5s ease-in-out infinite alternate;
+}
+
+
+@keyframes textShine {
+    0% {
+        background-position: 0% 50%;
+    }
+    100% {
+        background-position: 100% 50%;
+    }
+}
+
+
+@keyframes dark {
+    0% {
+    }
+    100% {
+        background: rgb(19, 19, 19);
+    }
+}
+
+
+
+
+
+.backk {
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 999;
+}
