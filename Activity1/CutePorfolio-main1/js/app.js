@@ -7,17 +7,17 @@ backkk.innerHTML = `<a href="../../index.html">Back</a>`;
 backkk.className = "backk";
 
 const data = {
-    title1: "this is title1",
-    para: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium exercitationem blanditiis magnam sint modi quaeratrepudiandae atque voluptate cum neque quae beatae pariatur tenetur dolore, dolores corporis impedit sed labore!",
+    title1: "this is my Activity1",
+    para: "I am James Rafty D. Libago",
     btn: "contact",
     img: "./images/prof.jpg",
     proj: "Projects",
     img1: "./images/prof.jpg",
     img2: "./images/prof.jpg",
     img3: "./images/prof.jpg",
-    para1: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium exercitationem blanditiis magnam sint modi quaeratrepudiandae atque voluptate cum neque quae beatae pariatur tenetur dolore, dolores corporis impedit sed labore!",
-    para2: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium exercitationem blanditiis magnam sint modi quaeratrepudiandae atque voluptate cum neque quae beatae pariatur tenetur dolore, dolores corporis impedit sed labore!",
-    para3: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium exercitationem blanditiis magnam sint modi quaeratrepudiandae atque voluptate cum neque quae beatae pariatur tenetur dolore, dolores corporis impedit sed labore!",
+    para1: "The Shiba Inu is a breed of hunting dog from Japan. A small-to-medium breed, it is the smallest of the six original breed of dogs native to Japan. Its name literally translates to brushwood dog",
+    para2: "The Shiba Inu is a breed of hunting dog from Japan. A small-to-medium breed, it is the smallest of the six original breed of dogs native to Japan. Its name literally translates to brushwood dog",
+    para3: "The Shiba Inu is a breed of hunting dog from Japan. A small-to-medium breed, it is the smallest of the six original breed of dogs native to Japan. Its name literally translates to brushwood dog",
 }
 
 

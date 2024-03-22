@@ -20,9 +20,8 @@ let cards = (images, paragraph) =>{
         ${paragraph} 
       </p>
       <a href="#" class="button">
-        click me
         <span class="material-symbols-outlined">
-          arrow_right_alt
+          Click ME
         </span>
       </a>
     </div>
